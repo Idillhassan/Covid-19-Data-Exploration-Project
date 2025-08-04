@@ -1,4 +1,4 @@
-# Covid-19-Data-Exploration- SQL Project
+# Covid-19-Data-Exploration-Project
 ## Project Overview
 
 This project involves an in-depth data exploration and analysis of a global COVID-19 dataset using SQL. The goal is to extract meaningful insights, identify trends, and answer specific questions about the pandemic's impact by manipulating and querying the data.
